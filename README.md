@@ -1,7 +1,7 @@
 # SQLSnipeIT
 Tested Version Snipe-It 6.1.0
 
-## Warning this is still in testing version, while all features seem to be working. There could still be bugs present so use at your own risk.
+## Warning this is still in testing, while all features seem to be working. There could still be bugs present so use at your own risk.
 
 This is a working version of Snipe-IT on microsofts SQL Server 2019.
 This install was done on windows 10, not sure if it would work on linux.

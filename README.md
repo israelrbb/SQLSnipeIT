@@ -192,7 +192,7 @@ php artisan key:generate
 
 Open your browser and navigate to:
 ```
-http://hsaws113964
+http://hostname
 ```
 
 ## Post-Installation Database Fix

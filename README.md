@@ -1,6 +1,6 @@
 # SQLSnipeIT Installation Guide
 
-**Version:** Tested on Snipe-IT v6.1.2  
+**Version:** Tested on Snipe-IT v8.2.1  
 **Platform:** Windows 11 with SQL Server 2019  
 **Status:** Testing phase - use at your own risk
 

@@ -121,14 +121,14 @@ Before starting, ensure you have:
    APP_ENV=production
    APP_DEBUG=false
    APP_KEY=base64:
-   APP_URL=http://hsaws113964
+   APP_URL=http://hostname
    APP_TIMEZONE='America/Los_Angeles'
    APP_LOCALE='en-US'
    MAX_RESULTS=500
    
    # Database Settings
    DB_CONNECTION=sqlsrv
-   DB_HOST=HSASQ09
+   DB_HOST=ServerName
    DB_PORT=1433
    DB_DATABASE=HSAAssetManager;TrustServerCertificate=true
    DB_USERNAME=[your_username]
